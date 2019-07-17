@@ -1,2 +1,1 @@
-# stay-hungry-stay-foolish
-一个只会抄代码的coder
+＃永远年轻，永远热泪盈眶
